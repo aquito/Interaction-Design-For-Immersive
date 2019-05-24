@@ -1,0 +1,19 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Monitor
+Author: Poly by Google
+URL: https://poly.google.com/view/e8cELDeDuTr
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Standing Desk
+Author: Jerad Bitner
+URL: https://poly.google.com/view/8NsdJ47ccV5
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: turntable
+Author: CC News
+URL: https://poly.google.com/view/1O0dffXIQQY
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
